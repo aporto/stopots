@@ -34,7 +34,7 @@ LETTER_AREA = (774, 213, 78, 76)
 
 # if DEBUG is True, the script will read snapshot.png from disk instead of
 # grabbing it from Windows screen
-DEBUG = True
+DEBUG = False
 
 #-------------------------------------------------------------------------------
 
